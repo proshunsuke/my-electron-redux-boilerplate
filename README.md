@@ -1,5 +1,5 @@
 # My-Electron-Redux-Boilerplate
-Electron application boilerplate based on React, Redux, webpack, boostrapt.
+Electron application boilerplate based on React, Redux, webpack, bootstrap.
 
 ![](./docs/screenshot.png)
 
