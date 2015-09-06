@@ -3,11 +3,18 @@ Electron application boilerplate based on React, Redux, webpack, bootstrap.
 
 ![](./docs/screenshot.png)
 
+## setup
+```shell
+$ git clone git@github.com:proshunsuke/my-electron-redux-boilerplate.git
+$ cd my-electron-redux-boilerplate
+$ bower install & npm install
+```
+
 ## Run
 
 run webpack dev server
 
-```bash
+```shell
 $ npm run start-dev-server
 ```
 
@@ -15,7 +22,7 @@ and, in another terminal.
 
 run electron
 
-```bash
+```shell
 $ npm run start-dev
 ```
 
