@@ -62,13 +62,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/README.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.07955801">
+            <state vertical-scroll-proportion="-2.0769231">
               <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
               <folding />
             </state>
@@ -115,11 +115,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/webpack.config.js">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.116004296">
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -151,13 +151,13 @@
         <option value="$USER_HOME$/PhpstormProjects/redux-test/js/reducers/Sample.js" />
         <option value="$USER_HOME$/PhpstormProjects/redux-test/js/index.js" />
         <option value="$USER_HOME$/PhpstormProjects/redux-test/js/components/Home.js" />
-        <option value="$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/.gitignore" />
         <option value="$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/index.js" />
         <option value="$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/server.js" />
         <option value="$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/package.json" />
         <option value="$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/index.html" />
         <option value="$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/dev-index.html" />
         <option value="$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/README.md" />
+        <option value="$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/.gitignore" />
       </list>
     </option>
   </component>
@@ -687,18 +687,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/js/utils/devTools.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13533835">
           <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -719,30 +719,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/js/components/Home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.6666667">
@@ -751,10 +727,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/index.js">
+    <entry file="file://$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/js/components/Home.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0769231">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -767,6 +754,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/dev-index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.666667">
@@ -775,13 +770,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
+    <entry file="file://$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07955801">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PhpstormProjects/my-electron-redux-boilerplate/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.116004296">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding />
         </state>
       </provider>
