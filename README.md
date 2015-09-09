@@ -3,7 +3,7 @@ Electron application boilerplate based on React, Redux, webpack, bootstrap.
 
 ![](./docs/screenshot.png)
 
-## setup
+## Setup
 ```shell
 $ git clone git@github.com:proshunsuke/my-electron-redux-boilerplate.git
 $ cd my-electron-redux-boilerplate
@@ -26,11 +26,21 @@ run electron
 $ npm run start-dev
 ```
 
+## Build and Package
+
 to build
 
 ```shell
 $ npm run build
 ```
+
+package your app using electron-packager
+
+```shell
+$ ./node_modules/.bin/electron-packager <sourcedir> <appname> --platform=<platform> --arch=<arch> --version=<version>
+```
+
+see more detail https://github.com/maxogden/electron-packager
 
 ## Bibliography
 - https://github.com/banderson/generator-redux
