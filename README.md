@@ -26,6 +26,12 @@ run electron
 $ npm run start-dev
 ```
 
+to build
+
+```shell
+$ npm run build
+```
+
 ## Bibliography
 - https://github.com/banderson/generator-redux
 - https://github.com/airtoxin/Electron-React-Boilerplate
