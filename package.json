@@ -1,7 +1,7 @@
 {
   "name": "my-electron-redux-boilerplate",
   "version": "0.1.0",
-  "description": "Electron application boilerplate based on React, Redux, webpack, bootstrap.",
+  "description": "Electron application boilerplate based on React, Redux, Redux DevTools, Webpack, Bootstrap.",
   "main": "index.js",
   "scripts": {
     "start-server": "node server.js",
